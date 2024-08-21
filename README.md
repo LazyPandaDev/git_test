@@ -1,3 +1,3 @@
-# git_tes0t
+# git_test
 
 ## Hello Odin!
